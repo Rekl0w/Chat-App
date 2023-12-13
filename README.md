@@ -71,5 +71,5 @@ Now, you can start chatting in real-time by accessing the client application in 
 - HTML
 - CSS
 
-###Contributing
+### Contributing
 Feel free to contribute to the development of this chat application. If you find any issues or have suggestions, please open an issue or submit a pull request.
