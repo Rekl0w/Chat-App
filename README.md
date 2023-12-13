@@ -5,9 +5,8 @@ Welcome to our real-time chat application built with ChatEngine.io! This applica
 ## Features
 
 - **Real-Time Communication:** Experience instant messaging with real-time updates.
-- **Chat Rooms:** Create and join different chat rooms based on topics or interests.
+- **Chat Rooms:** Create and join different chat rooms.
 - **User Management:** Manage users, invite them to chat rooms, and send private messages.
-- **Emoji Support:** Express yourself with a wide range of emojis.
 - **File Sharing:** Share images and files within the chat.
 
 ## Getting Started
